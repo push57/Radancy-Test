@@ -43,13 +43,17 @@
     padding-bottom:0px;
   }
   .citi-content{
-    border:none;
+    border: none;
   }
   .Home-Loans-header{
     font-size: 20px;
   }
   .wk-mobile-12 {
     width: 100%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
   }
   .container-citi hr {
     border-bottom: 2px solid #007c3e;

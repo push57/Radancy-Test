@@ -1,0 +1,62 @@
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .header-right {
+    float: none;
+  }
+
+  .section div{
+    width:100%;
+    border-bottom:0.5px solid #999;
+  }
+  .section{
+    display: block;
+  }
+  .Home-Loans-header{
+    line-height: 30px;
+    letter-spacing: 0.5px;
+  }
+  .Home-Loans-content{
+    padding:10px;
+  }
+  p, small, span{
+    line-height:30px;
+  }
+  .overlay{
+    display: none;
+  }
+  .hero-banner{
+    height:30vh;
+  }
+  .investment h1{
+    font-size: 30px;
+  }
+  .name{
+    margin-top:10px;
+  }
+  .card{
+    padding-top: 0px;
+    padding-bottom:0px;
+  }
+  .citi-content{
+    border:none;
+  }
+  .Home-Loans-header{
+    font-size: 20px;
+  }
+  .wk-mobile-12 {
+    width: 100%;
+  }
+  .container-citi hr {
+    border-bottom: 2px solid #007c3e;
+    width: 30%;
+}
+  .investment hr {
+  border-bottom: 2px solid #007c3e;
+  width: 30%;
+}
+}
